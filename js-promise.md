@@ -1,4 +1,4 @@
-## 我对Promise的理解
+# 我对Promise的理解
 
 
 
@@ -41,3 +41,10 @@ microtask queue中的所有任务都执行完毕，此时microtask queue为空�
 重复第3-7个步骤；
 
 ......
+
+## Reference
+
+Title | URL
+--- | ---
+我对Promises的理解 | https://www.jianshu.com/p/b497eab58ed7
+MDN Promise | https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise
