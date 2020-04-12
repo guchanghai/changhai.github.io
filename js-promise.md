@@ -48,3 +48,5 @@ Title | URL
 --- | ---
 我对Promises的理解 | https://www.jianshu.com/p/b497eab58ed7
 MDN Promise | https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise
+Promise A+ | https://promisesaplus.com/
+JavaScript Promise迷你书（中文版）| http://liubin.org/promises-book/
